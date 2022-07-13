@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "868908335047",
+    "project_id": "mymessage-34b10",
+    "storage_bucket": "mymessage-34b10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868908335047:android:6abc07edcf9961aac523e2",
+        "android_client_info": {
+          "package_name": "radek.lolarz.my_message"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868908335047-dsm3u8c2fh696tseb7p3180i2llfh41e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsTG6g0f8N9ePD_IzLd5m9KjnEBxBUkeE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868908335047-dsm3u8c2fh696tseb7p3180i2llfh41e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
